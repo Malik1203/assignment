@@ -1,0 +1,19 @@
+.container {
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+  }
+  
+  .counterValue {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .buttons {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 15px;
+  }
+  
